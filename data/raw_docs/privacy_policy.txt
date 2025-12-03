@@ -1,0 +1,5 @@
+Privacy Policy Essentials:
+- Customer phone numbers, email addresses, and payment details must be protected.
+- No personal information should be shared with third-party systems.
+- The AI must mask PII before processing user inputs.
+- Location data should only be used for relevant features like nearby store suggestions.

@@ -1,0 +1,6 @@
+Inventory FAQ:
+- Inventory updates every 5 minutes.
+- If an item is out of stock, suggest alternatives.
+- Hot Cocoa availability varies by store.
+- Some stores do not serve hot beverages after 10 PM.
+- Vegan products may be limited at smaller retail locations.

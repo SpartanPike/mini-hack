@@ -1,0 +1,6 @@
+Loyalty Program Details:
+- Customers earn 1 point per $1 spent.
+- Gold members get 10% extra points.
+- Free drink rewards are issued every 100 points.
+- Loyalty tiers are: Regular, Silver, Gold, and Platinum.
+- Loyalty benefits vary depending on region and partner store.

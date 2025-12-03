@@ -1,0 +1,5 @@
+Order Tracking FAQ:
+- Customers can track their order using the order ID.
+- Standard shipping deliveries take 3–5 business days.
+- If an order is delayed more than 48 hours, escalate to a supervisor.
+- If the customer claims they did not receive a package, verify address and initiate a missing package report.

@@ -1,0 +1,6 @@
+Escalation Rules:
+- Escalate issues involving refunds over $200.
+- Escalate complaints about staff behavior.
+- Escalate technical issues that prevent order placement.
+- Escalation should be logged with the supervisor ID.
+- Do not escalate minor issues that can be resolved with FAQs.

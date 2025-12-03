@@ -1,0 +1,6 @@
+Coupon & Discount Rules:
+- Coupons cannot be stacked unless explicitly stated.
+- Personalized coupons are user-specific and cannot be transferred.
+- Location-based coupons are valid only within the listed store radius.
+- Coupons cannot be applied after an order is placed.
+- Expired coupons cannot be reactivated except by a manager.

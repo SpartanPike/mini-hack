@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+
+sentence-transformers
+faiss-cpu
+
+torch
+accelerate
+transformers
+
+pydantic
+python-dotenv
+tqdm
+regex
+
+groq

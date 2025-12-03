@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
+venv/
+
+# Node / React (if any)
+node_modules/
+
+# OS files
+.DS_Store
+
+# Vector DB
+data/vector_store/
+

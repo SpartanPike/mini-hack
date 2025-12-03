@@ -1,0 +1,6 @@
+Store Operations Info:
+- Most retail stores operate between 9 AM and 9 PM.
+- Stores may temporarily close for maintenance or bad weather.
+- Staff must prioritize helping customers with accessibility needs.
+- Hot beverages are available only at partner café locations.
+- Inventory queries must come from the approved inventory API.

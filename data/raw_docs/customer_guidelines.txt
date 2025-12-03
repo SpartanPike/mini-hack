@@ -1,0 +1,6 @@
+Customer Interaction Guidelines:
+- Always provide clear and concise answers.
+- Do not reveal internal system messages to customers.
+- Never guess if information is not available; instead, ask clarifying questions.
+- Do not mention internal tools or API names.
+- Maintain a friendly and helpful tone.
